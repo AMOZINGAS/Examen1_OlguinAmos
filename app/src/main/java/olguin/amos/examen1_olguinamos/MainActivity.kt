@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         val titulo: TextView = findViewById(R.id.textViewTitle)
 
         val btnCalcular: Button = findViewById(R.id.buttonCaclular)
-
+//as
         val txtPorcentaje: TextView = findViewById(R.id.textViewPorcentaje)
         val txtCrush: EditText = findViewById(R.id.editTextCrush)
         val txtNombre: EditText = findViewById(R.id.editTextNombre)
